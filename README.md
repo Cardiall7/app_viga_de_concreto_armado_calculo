@@ -1,0 +1,1 @@
+# app_viga_de_concreto_armado_calculo
